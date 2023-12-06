@@ -24,15 +24,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![My design screenshot](screenshot/design_screenshot.jpg)
+![My design screenshot](https://github.com/larexoo7/QR_Component-Solution/assets/80981274/1fad52e4-ae16-4514-9ccf-d09adf87df39)
 
 Here is a screenshot of my design and where it is located project files.
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution URL here](https://github.com/larexoo7/QR_Component-Solution)
+- Live Site URL: [live site URL here](https://larexoo7.github.io/QR_Component-Solution/)
 
 ## My process
 
